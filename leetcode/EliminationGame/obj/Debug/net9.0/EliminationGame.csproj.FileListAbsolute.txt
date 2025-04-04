@@ -1,0 +1,14 @@
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\bin\Debug\net9.0\EliminationGame.exe
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\bin\Debug\net9.0\EliminationGame.deps.json
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\bin\Debug\net9.0\EliminationGame.runtimeconfig.json
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\bin\Debug\net9.0\EliminationGame.dll
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\bin\Debug\net9.0\EliminationGame.pdb
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\obj\Debug\net9.0\EliminationGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\obj\Debug\net9.0\EliminationGame.AssemblyInfoInputs.cache
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\obj\Debug\net9.0\EliminationGame.AssemblyInfo.cs
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\obj\Debug\net9.0\EliminationGame.csproj.CoreCompileInputs.cache
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\obj\Debug\net9.0\EliminationGame.dll
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\obj\Debug\net9.0\refint\EliminationGame.dll
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\obj\Debug\net9.0\EliminationGame.pdb
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\obj\Debug\net9.0\EliminationGame.genruntimeconfig.cache
+c:\Users\benoitvezina\source\repos\coding-problems\leetcode\EliminationGame\obj\Debug\net9.0\ref\EliminationGame.dll
