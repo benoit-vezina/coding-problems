@@ -14,3 +14,4 @@
 
 // Note:
 // You pass the tests if abs(actual - expected) <= 1e-12
+Console.WriteLine("Hello");
