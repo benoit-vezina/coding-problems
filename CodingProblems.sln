@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "custo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "leetcode\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{1FA50373-2821-46BE-B7B5-68ECE3C37B42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "leetcode\ContainerWithMostWater\ContainerWithMostWater.csproj", "{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -229,6 +231,18 @@ Global
 		{1FA50373-2821-46BE-B7B5-68ECE3C37B42}.Release|x64.Build.0 = Release|Any CPU
 		{1FA50373-2821-46BE-B7B5-68ECE3C37B42}.Release|x86.ActiveCfg = Release|Any CPU
 		{1FA50373-2821-46BE-B7B5-68ECE3C37B42}.Release|x86.Build.0 = Release|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Debug|x64.Build.0 = Debug|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Debug|x86.Build.0 = Debug|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Release|x64.ActiveCfg = Release|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Release|x64.Build.0 = Release|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Release|x86.ActiveCfg = Release|Any CPU
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -243,5 +257,6 @@ Global
 		{A5E097EA-2134-43BA-8BAB-8F1DA2D3CEE6} = {3839457E-A4D2-EDDE-2D95-A020B8C0601A}
 		{FF3A7D9F-089F-4A77-886C-392AB0C3B5AE} = {2CFBD9EE-AE3C-B756-B380-22A6C2A9666D}
 		{1FA50373-2821-46BE-B7B5-68ECE3C37B42} = {3839457E-A4D2-EDDE-2D95-A020B8C0601A}
+		{45B03C8A-1DED-4746-9BC4-7DB0ABAB882E} = {3839457E-A4D2-EDDE-2D95-A020B8C0601A}
 	EndGlobalSection
 EndGlobal
