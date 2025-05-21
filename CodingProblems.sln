@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "leetcod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromicSubstring", "leetcode\LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{936F0B90-CE41-423C-A0A7-5A14E9DD77EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigzagConversion", "leetcode\ZigzagConversion\ZigzagConversion.csproj", "{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,18 @@ Global
 		{936F0B90-CE41-423C-A0A7-5A14E9DD77EA}.Release|x64.Build.0 = Release|Any CPU
 		{936F0B90-CE41-423C-A0A7-5A14E9DD77EA}.Release|x86.ActiveCfg = Release|Any CPU
 		{936F0B90-CE41-423C-A0A7-5A14E9DD77EA}.Release|x86.Build.0 = Release|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Debug|x64.Build.0 = Debug|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Debug|x86.Build.0 = Debug|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Release|x64.ActiveCfg = Release|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Release|x64.Build.0 = Release|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Release|x86.ActiveCfg = Release|Any CPU
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -303,5 +317,6 @@ Global
 		{19DAAC1E-0A3A-4E1A-8A7E-259AE7608E47} = {3839457E-A4D2-EDDE-2D95-A020B8C0601A}
 		{057201B8-ACEC-41C6-B44B-115AF734BA4E} = {3839457E-A4D2-EDDE-2D95-A020B8C0601A}
 		{936F0B90-CE41-423C-A0A7-5A14E9DD77EA} = {3839457E-A4D2-EDDE-2D95-A020B8C0601A}
+		{FE3CC4CE-3472-4DBD-87B3-3927D22360B7} = {3839457E-A4D2-EDDE-2D95-A020B8C0601A}
 	EndGlobalSection
 EndGlobal
